@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ProyectoMovil_Grupo4.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ProyectoMovil_Grupo4.Views"
+    Shell.FlyoutBehavior="Disabled">
+
+    <TabBar>
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Icon="icons8_home_64" />
+
+        <ShellContent
+            Title="Usuarios"
+            ContentTemplate="{DataTemplate local:AllUsuarios}"
+            Icon="icons8_users_64" />
+
+        <ShellContent
+            Title="Marcas"
+            ContentTemplate="{DataTemplate local:AllMarcas}"
+            Icon="icons8_north_west_64" />
+        <ShellContent
+            Title="Categorias"
+            ContentTemplate="{DataTemplate local:AllCategorias}"
+            Icon="icons8_sorting_64" />
+        
+        <ShellContent
+            Title="Productos"
+            ContentTemplate="{DataTemplate local:AllProductos}"
+            Icon="icons8_product_64" />
+    </TabBar>
+
+</Shell>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoMovil_Grupo4.Views.MainPage"
+             Shell.FlyoutBehavior="Disabled">
+
+    <VerticalStackLayout Spacing="10" Margin="10">
+        <HorizontalStackLayout Spacing="10">
+            <Image Source="imagen_principal.png"
+                   SemanticProperties.Description="The dot net bot waving hello!"
+                   HeightRequest="250" />
+            <!--<Label FontSize="22" FontAttributes="Bold" VerticalOptions="End" />
+            <Label FontSize="22" VerticalOptions="End" />-->
+        </HorizontalStackLayout>
+        <Image Source="crea_rapidamente.png"
+                   SemanticProperties.Description="The dot net bot waving hello!"
+                   HeightRequest="250" />
+        <Button x:Name="btnUsuarios" Text="Usuarios" Clicked="irUsuarios"/>
+        <Button x:Name="btnMarca" Text="Marca" Clicked="irMarca"/>
+        <Button x:Name="btnCategoria" Text="Categoria" Clicked="irCategoria"/>
+        <Button x:Name="btnProducto" Text="Producto" Clicked="irProducto"/>
+    </VerticalStackLayout>
+
+
+
+</ContentPage>

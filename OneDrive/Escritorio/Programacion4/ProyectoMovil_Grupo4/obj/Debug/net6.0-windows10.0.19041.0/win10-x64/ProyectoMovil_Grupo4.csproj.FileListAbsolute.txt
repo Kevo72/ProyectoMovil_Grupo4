@@ -1,0 +1,12 @@
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProyectoMovil_Grupo4.csproj.AssemblyReference.cache
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\rosco\OneDrive\Escritorio\Programacion4\ProyectoMovil_Grupo4\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProyectoMovil_Grupo4.GeneratedMSBuildEditorConfig.editorconfig
