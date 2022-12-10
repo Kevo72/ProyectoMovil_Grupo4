@@ -10,23 +10,23 @@ public partial class MainPage : ContentPage
 
 	private async void irUsuarios(object sender, EventArgs e)
 	{
-		await Navigation.PushAsync(new Usuarios());
+		await Navigation.PushAsync(new AllUsuarios());
 
     }
 
 	private async void irMarca(object sender, EventArgs e)
 	{
-        await Navigation.PushAsync(new Marca());
+        await Navigation.PushAsync(new AllMarcas());
     }
 
 	private async void irCategoria(object sender, EventArgs e)
 	{
-        await Navigation.PushAsync(new Categoria());
+        await Navigation.PushAsync(new AllCategorias());
     }
 
 	private async void irProducto(object sender, EventArgs e)
 	{
-        await Navigation.PushAsync(new Producto());
+        await Navigation.PushAsync(new AllProductos());
     }
 }
 
